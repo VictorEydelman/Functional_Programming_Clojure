@@ -21,11 +21,11 @@
 
 # Лабораторная №4
 В лабораторной я думаю написать приложение, где бы была возможность писать backend и frontend часть.
-Я склоняюсь к peer2peer сервис чатов с шифрованием и хранением истории. Плюсы этого варианта в том, что я смогу сделать клиент-серверное приложение и поработать .
+Я склоняюсь к peer2peer сервис чатов с шифрованием и хранением истории. Плюсы этого варианта в том, что я смогу сделать клиент-серверное приложение и поработать.
 
 # Выбранная книга
 «Clojure» Karthikeyan.A.K - https://clojure-book.gitlab.io/
 
 # Использованные источники
-https://grishaev.me/clojure-article/
-https://habr.com/ru/companies/otus/articles/725060/
+1. https://grishaev.me/clojure-article/
+2. https://habr.com/ru/companies/otus/articles/725060/
